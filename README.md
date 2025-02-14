@@ -4,7 +4,7 @@
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.15.0-orange.svg)](https://tensorflow.org/)
 [![OpenCV](https://img.shields.io/badge/OpenCV-4.8.1-green.svg)](https://opencv.org/)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/votre-username/HandsOn/graphs/commit-activity)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/TANMatteo/HandsOn/graphs/commit-activity)
 
 <div align="center">
   <img src="docs/images/demo.gif" alt="Démonstration de l'application" width="600"/>
@@ -94,7 +94,7 @@ HandsOn se distingue par :
 
 1. Clonez le dépôt :
 ```bash
-git clone https://github.com/votre-username/HandsOn.git
+git clone https://github.com/TANMatteo/HandsOn.git
 cd HandsOn
 ```
 
@@ -292,10 +292,8 @@ Ce projet est sous licence MIT - voir le fichier [LICENSE](LICENSE) pour plus de
 ## 📞 Support
 
 ### Canaux de Support
-1. [Issues GitHub](https://github.com/votre-username/HandsOn/issues)
-2. [Documentation](https://github.com/votre-username/HandsOn/wiki)
-3. [Discord](https://discord.gg/votre-serveur)
-4. Email: support@exemple.com
+1. [Issues GitHub](https://github.com/TANMatteo/HandsOn/issues)
+2. [Documentation](https://github.com/TANMatteo/HandsOn/wiki)
 
 ### Signalement de Bugs
 - Utilisez le template d'issue
@@ -310,7 +308,7 @@ Ce projet est sous licence MIT - voir le fichier [LICENSE](LICENSE) pour plus de
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.15.0-orange.svg)](https://tensorflow.org/)
 [![OpenCV](https://img.shields.io/badge/OpenCV-4.8.1-green.svg)](https://opencv.org/)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/your-username/HandsOn/graphs/commit-activity)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/TANMatteo/HandsOn/graphs/commit-activity)
 
 <div align="center">
   <img src="docs/images/demo.gif" alt="Application Demo" width="600"/>
@@ -386,7 +384,7 @@ HandsOn stands out through:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/HandsOn.git
+git clone https://github.com/TANMatteo/HandsOn.git
 cd HandsOn
 ```
 
@@ -464,11 +462,17 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) f
 ## 📞 Support
 
 ### Support Channels
-1. [GitHub Issues](https://github.com/your-username/HandsOn/issues)
-2. [Documentation](https://github.com/your-username/HandsOn/wiki)
-3. [Discord](https://discord.gg/your-server)
-4. Email: support@example.com
+1. [GitHub Issues](https://github.com/TANMatteo/HandsOn/issues)
+2. [Documentation](https://github.com/TANMatteo/HandsOn/wiki)
+
+
+### Signalement de Bugs
+- Utilisez le template d'issue
+- Incluez les logs
+- Décrivez l'environnement
+- Ajoutez des captures d'écran
 
 ---
+
 Developed with ❤️ for the community
 Copyright © 2025 TAN Mattéo
